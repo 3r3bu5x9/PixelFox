@@ -1,0 +1,39 @@
+body{
+	background: #292D31;
+	color: #BBC4C8;
+}
+.container{
+	display: grid;
+	grid-gap: 5px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 15%;
+	margin-right: 15%;
+	grid-template-columns: repeat(4,1fr);
+	justify-items: center;
+}
+.logo{
+	grid-column: 1/-1;
+	padding-bottom: 60px;
+}
+
+li{
+	list-style-type: none;
+	padding:5px
+}
+a:link{
+	text-decoration: none;
+	color: #9BA8BB;
+}
+a:visited{
+	color: #9BA8BB;
+}
+a:hover{
+	color: #BC4B4F;
+}
+.category{
+	background: #191C1E;
+	padding: 20px;
+	border: #191C1E;
+	border-radius: 2px;
+}
