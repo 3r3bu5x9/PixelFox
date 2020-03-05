@@ -1,8 +1,8 @@
 # PixelFox
 a simple startpage for Firefox with some pixelart.
-![FF in Debian-openbox](/scrot.png)
+![FF in Debian-openbox](/scrot1.png)
 
-##Instructions:
+## Instructions:
 
 Place both chrome and startpage in .mozilla/firefox/PROFILE/ to use them. You can get the location of your PROFILE dir in about:profiles. Set the startpage for Home in preferences and restart.
 
