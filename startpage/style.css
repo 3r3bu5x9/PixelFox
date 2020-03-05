@@ -4,7 +4,7 @@ body{
 }
 .container{
 	display: grid;
-	grid-gap: 5px;
+	grid-gap: 20px;
 	margin-top: 10%;
 	margin-bottom: 10%;
 	margin-left: 15%;
@@ -14,7 +14,7 @@ body{
 }
 .logo{
 	grid-column: 1/-1;
-	padding-bottom: 60px;
+	padding-bottom: 50px;
 }
 
 li{
@@ -36,4 +36,6 @@ a:hover{
 	padding: 20px;
 	border: #191C1E;
 	border-radius: 2px;
+	width:   -moz-available;
+	
 }
