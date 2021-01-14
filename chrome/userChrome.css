@@ -36,9 +36,9 @@ display : none !important;
 #tabbrowser-tabs {
 background-color: #292D31 !important;
 --tab-min-height: 18px !important;
-  margin-left: 2px !important;
+  margin-left: 0px !important;
   height: 25px !important;
-  margin-bottom: 4px !important;
+  margin-bottom: 0px !important;
 }
 
 /* remove lines */
